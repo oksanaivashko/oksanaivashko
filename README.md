@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oksanaivashko
+- 👋 Hi, I’m Oksana
 - 👀 I’m interested in mountain climbing.
 - 🌱 I’m currently learning Ansible.
 - 💞️ I’m looking to collaborate to build a team to learn, work and enjoy at the same time.
